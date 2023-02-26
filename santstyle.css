@@ -1,0 +1,39 @@
+
+nav{
+    background-color: orange;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+.santinfo{
+    color: black;
+    /* background-color: rgb(219, 119, 177); */
+    background-image: url(Images/parabag.png);
+    margin: 20px;
+    padding: 15px;
+}
+th {
+    background-color: #944774;
+    /* background-color: rgb(219, 119, 177); */
+    color: white;
+}
+table, th, td {
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+    padding: 10px;
+  }
+
+tr:hover {background-color: #ddd;}
+table {
+    margin-left: auto; 
+    margin-right: auto;
+    width: 97%;margin-bottom: 20px;
+} 
+footer {
+    background-color: orange;
+    color: white;
+}
+
+
